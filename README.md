@@ -1,11 +1,8 @@
 <h2 align="left"> 👋! My name is Túlio</h2>
 
-###
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polusv7)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trmxv9&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Trmxv9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+###
 
 ###
 
