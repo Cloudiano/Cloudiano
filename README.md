@@ -10,13 +10,13 @@
 ###
 
 <div align="left">
-   <a href="https://www.youtube.com/@TRMenus" target="_blank">
+   <a href="https://www.youtube.com/@PLSCodes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://discord.gg/kg6hCMJRF4" target="_blank">
+  <a href="https://discord.gg/4qkZW6xvNS" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/trmxhn/" target="_blank">
+  <a href="https://www.linkedin.com/in/t%C3%BAlio-jos%C3%A9-209136310/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
