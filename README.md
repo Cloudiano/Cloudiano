@@ -1,7 +1,6 @@
 <h2 align="left"> 👋! My name is Túlio</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polusv7)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polusv7_icons=true&theme=synthwave)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Polusv7_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
