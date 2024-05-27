@@ -4,12 +4,6 @@
 
 ###
 
-###
-
-<img align="right" height="150" src="https://associationsnow.com/wp-content/uploads/2016/01/0111_javascript.jpg"  />
-
-###
-
 <div align="left">
    <a href="https://www.youtube.com/@TRMenus" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
