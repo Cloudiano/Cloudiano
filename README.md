@@ -4,6 +4,8 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Túlio José)](https://github.com/Polusv7)
+
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8cNKGtz0EmoBanLq5r9x_A)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/t%C3%BAlio-jos%C3%A9-209136310/)
