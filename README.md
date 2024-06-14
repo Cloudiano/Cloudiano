@@ -3,14 +3,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Polusv7&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cloudiano&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cloudiano&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="left">
-   <a href="https://www.youtube.com/@PLSCodes" target="_blank">
+   <a href="https://www.youtube.com/@Cloudiano" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://discord.gg/4qkZW6xvNS" target="_blank">
